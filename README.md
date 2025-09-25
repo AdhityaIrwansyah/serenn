@@ -143,7 +143,7 @@
   </div>
 
   <div class="page" id="page2">
-    <img src="https://i.pinimg.com/originals/ac/12/68/ac1268d945899a5dccacf64ba3e34cf3.gif" alt="Envelope" />
+    <img src="download.gif" alt="Envelope" />
     <p>Klik 1 kalau penasaran!!!</p>
     <button class="button" onclick="goToPage(3)">11111111111 </button>
   </div>
